@@ -1,0 +1,240 @@
+test  1 :
+24.767483278584717 % 	 Average error =  132.94812742533796 	Time per size =  448  nano sec per pixel
+test  2 :
+25.0 % 	 Average error =  124.91970189450957 	Time per size =  563  nano sec per pixel
+test  3 :
+12.6837142128961 % 	 Average error =  130.3673036540824 	Time per size =  408  nano sec per pixel
+test  4 :
+13.06466865497927 % 	 Average error =  140.35104409942116 	Time per size =  462  nano sec per pixel
+test  5 :
+22.235253872843668 % 	 Average error =  127.73264727037032 	Time per size =  471  nano sec per pixel
+test  6 :
+17.501670006680026 % 	 Average error =  138.72788373770805 	Time per size =  1601  nano sec per pixel
+test  7 :
+11.599490878235045 % 	 Average error =  121.85675061455414 	Time per size =  521  nano sec per pixel
+test  8 :
+13.37260034904014 % 	 Average error =  99.62608720946403 	Time per size =  630  nano sec per pixel
+test  9 :
+11.569331502798606 % 	 Average error =  124.23242163908422 	Time per size =  551  nano sec per pixel
+test  10 :
+4.784877723162814 % 	 Average error =  82.21625749567451 	Time per size =  633  nano sec per pixel
+test  11 :
+16.545872977707553 % 	 Average error =  118.14196957308448 	Time per size =  594  nano sec per pixel
+test  12 :
+14.363083314785962 % 	 Average error =  110.41661619154875 	Time per size =  622  nano sec per pixel
+test  13 :
+13.560916857992398 % 	 Average error =  107.27922005379428 	Time per size =  399  nano sec per pixel
+test  14 :
+30.668960244648318 % 	 Average error =  138.19332830801608 	Time per size =  412  nano sec per pixel
+test  15 :
+14.4559784698193 % 	 Average error =  84.72161299319977 	Time per size =  378  nano sec per pixel
+test  16 :
+14.309880815071127 % 	 Average error =  84.23151299314176 	Time per size =  385  nano sec per pixel
+test  17 :
+17.5380208113915 % 	 Average error =  124.67821498195512 	Time per size =  399  nano sec per pixel
+test  18 :
+8.4027105517909 % 	 Average error =  96.16155291702341 	Time per size =  382  nano sec per pixel
+test  19 :
+20.52763700089992 % 	 Average error =  116.62732500033165 	Time per size =  383  nano sec per pixel
+test  20 :
+13.950600248378638 % 	 Average error =  116.56139042115707 	Time per size =  315  nano sec per pixel
+test  21 :
+9.301041337961502 % 	 Average error =  95.98499336922139 	Time per size =  364  nano sec per pixel
+test  22 :
+10.043806742429053 % 	 Average error =  113.44123174809626 	Time per size =  376  nano sec per pixel
+test  23 :
+7.162753680859531 % 	 Average error =  109.12002396053738 	Time per size =  340  nano sec per pixel
+test  24 :
+11.599254762906424 % 	 Average error =  101.5399541054365 	Time per size =  356  nano sec per pixel
+test  25 :
+13.891481913652276 % 	 Average error =  105.01159493014974 	Time per size =  347  nano sec per pixel
+test  26 :
+11.582958087980602 % 	 Average error =  110.95314042305833 	Time per size =  355  nano sec per pixel
+test  27 :
+12.8564022809746 % 	 Average error =  118.81078573965257 	Time per size =  305  nano sec per pixel
+test  28 :
+15.63927743023828 % 	 Average error =  114.72259493367056 	Time per size =  344  nano sec per pixel
+test  29 :
+13.998688828043655 % 	 Average error =  112.1012848593972 	Time per size =  418  nano sec per pixel
+test  30 :
+9.344629038764808 % 	 Average error =  110.73427556335832 	Time per size =  425  nano sec per pixel
+test  31 :
+7.226299236183915 % 	 Average error =  114.64663439340542 	Time per size =  372  nano sec per pixel
+test  32 :
+9.515316827528325 % 	 Average error =  106.60467271058273 	Time per size =  358  nano sec per pixel
+test  33 :
+11.47555322312604 % 	 Average error =  106.91865659123513 	Time per size =  405  nano sec per pixel
+test  34 :
+2.0038473869830074 % 	 Average error =  64.82367575073242 	Time per size =  344  nano sec per pixel
+test  35 :
+3.71941008049268 % 	 Average error =  74.24026554359763 	Time per size =  459  nano sec per pixel
+test  36 :
+4.259528658713995 % 	 Average error =  92.76812917678083 	Time per size =  388  nano sec per pixel
+test  37 :
+7.0342205323193925 % 	 Average error =  101.74617301665985 	Time per size =  339  nano sec per pixel
+test  38 :
+4.075965686517578 % 	 Average error =  81.65867825900261 	Time per size =  396  nano sec per pixel
+test  39 :
+4.528602011648906 % 	 Average error =  105.48251137254293 	Time per size =  915  nano sec per pixel
+test  40 :
+3.6294709642322864 % 	 Average error =  82.31486197478318 	Time per size =  547  nano sec per pixel
+test  41 :
+2.973253161932407 % 	 Average error =  64.57152898674065 	Time per size =  505  nano sec per pixel
+test  42 :
+3.5558268891602225 % 	 Average error =  77.77780088201273 	Time per size =  596  nano sec per pixel
+test  43 :
+7.122247532270311 % 	 Average error =  88.62758746279329 	Time per size =  347  nano sec per pixel
+test  44 :
+10.183112919633775 % 	 Average error =  127.68791213592925 	Time per size =  360  nano sec per pixel
+test  45 :
+9.269823160296635 % 	 Average error =  101.86364247248723 	Time per size =  327  nano sec per pixel
+test  46 :
+4.32045512835459 % 	 Average error =  77.84565984167025 	Time per size =  450  nano sec per pixel
+test  47 :
+5.895398262798004 % 	 Average error =  70.48909917570332 	Time per size =  379  nano sec per pixel
+test  48 :
+4.371087080250427 % 	 Average error =  91.02186840275924 	Time per size =  519  nano sec per pixel
+test  49 :
+5.414835164835165 % 	 Average error =  95.26068357741512 	Time per size =  427  nano sec per pixel
+test  50 :
+3.229375197555579 % 	 Average error =  71.42757463999712 	Time per size =  436  nano sec per pixel
+test  51 :
+3.9326941890041085 % 	 Average error =  80.40997584328723 	Time per size =  421  nano sec per pixel
+test  52 :
+13.375657423832196 % 	 Average error =  108.26839468766501 	Time per size =  438  nano sec per pixel
+test  53 :
+12.663167810523483 % 	 Average error =  111.55576464726998 	Time per size =  344  nano sec per pixel
+test  54 :
+18.709870091085563 % 	 Average error =  114.82255245035206 	Time per size =  476  nano sec per pixel
+test  55 :
+12.590921467190478 % 	 Average error =  116.00424789579554 	Time per size =  417  nano sec per pixel
+test  56 :
+9.51206731806553 % 	 Average error =  96.46669966573462 	Time per size =  440  nano sec per pixel
+test  57 :
+11.42828066961787 % 	 Average error =  88.67855205009373 	Time per size =  376  nano sec per pixel
+test  58 :
+6.1573259612968085 % 	 Average error =  99.25512550315078 	Time per size =  434  nano sec per pixel
+test  59 :
+9.518226390961415 % 	 Average error =  123.69794194562171 	Time per size =  337  nano sec per pixel
+test  60 :
+14.875661077979071 % 	 Average error =  128.13887974137438 	Time per size =  322  nano sec per pixel
+test  61 :
+5.121493696287571 % 	 Average error =  83.79089284633656 	Time per size =  377  nano sec per pixel
+test  62 :
+16.320116054158607 % 	 Average error =  132.63296879521124 	Time per size =  338  nano sec per pixel
+test  63 :
+5.498458376156218 % 	 Average error =  77.4251241452226 	Time per size =  362  nano sec per pixel
+test  64 :
+4.475703324808184 % 	 Average error =  74.1257066999163 	Time per size =  336  nano sec per pixel
+test  65 :
+4.575936883629192 % 	 Average error =  64.61385498704581 	Time per size =  380  nano sec per pixel
+test  66 :
+4.830657131291324 % 	 Average error =  72.22612751795593 	Time per size =  355  nano sec per pixel
+test  67 :
+15.462327446595204 % 	 Average error =  124.61007011870197 	Time per size =  367  nano sec per pixel
+test  68 :
+20.745515695067265 % 	 Average error =  124.21169488593006 	Time per size =  391  nano sec per pixel
+test  69 :
+14.854035489410416 % 	 Average error =  127.00767567070463 	Time per size =  379  nano sec per pixel
+test  70 :
+7.379814450379533 % 	 Average error =  93.13679125104632 	Time per size =  352  nano sec per pixel
+test  71 :
+6.555659059152305 % 	 Average error =  116.11353112961005 	Time per size =  352  nano sec per pixel
+test  72 :
+7.063016361574599 % 	 Average error =  93.85382562164867 	Time per size =  341  nano sec per pixel
+test  73 :
+3.650019765449993 % 	 Average error =  74.07304004985933 	Time per size =  327  nano sec per pixel
+test  74 :
+6.584292484766419 % 	 Average error =  102.33356522900893 	Time per size =  331  nano sec per pixel
+test  75 :
+8.71868978805395 % 	 Average error =  100.98593601807893 	Time per size =  375  nano sec per pixel
+test  76 :
+8.74302056380226 % 	 Average error =  98.01951223890359 	Time per size =  388  nano sec per pixel
+test  77 :
+8.21605472128312 % 	 Average error =  114.87940466848858 	Time per size =  371  nano sec per pixel
+test  78 :
+7.76139115122166 % 	 Average error =  82.05365248586533 	Time per size =  410  nano sec per pixel
+test  79 :
+11.459746023918136 % 	 Average error =  114.42123905774918 	Time per size =  386  nano sec per pixel
+test  80 :
+9.12561841256184 % 	 Average error =  96.88862183885007 	Time per size =  395  nano sec per pixel
+test  81 :
+8.752025931928689 % 	 Average error =  90.81120740093252 	Time per size =  406  nano sec per pixel
+test  82 :
+5.724594107035478 % 	 Average error =  88.51848353858756 	Time per size =  355  nano sec per pixel
+test  83 :
+5.141228939544104 % 	 Average error =  66.22056153998318 	Time per size =  367  nano sec per pixel
+test  84 :
+4.0358145128958975 % 	 Average error =  56.79952531776681 	Time per size =  352  nano sec per pixel
+test  85 :
+7.455807121511422 % 	 Average error =  82.34576997031336 	Time per size =  411  nano sec per pixel
+test  86 :
+7.334924423229912 % 	 Average error =  91.77270946792305 	Time per size =  369  nano sec per pixel
+test  87 :
+16.167230546157562 % 	 Average error =  113.80351831904679 	Time per size =  451  nano sec per pixel
+test  88 :
+12.082289612535309 % 	 Average error =  116.14076245698732 	Time per size =  434  nano sec per pixel
+test  89 :
+7.707910750507099 % 	 Average error =  109.88377880074127 	Time per size =  342  nano sec per pixel
+test  90 :
+13.967988088591104 % 	 Average error =  122.94443572194953 	Time per size =  442  nano sec per pixel
+test  91 :
+8.076614615275748 % 	 Average error =  127.33920121415753 	Time per size =  410  nano sec per pixel
+test  92 :
+16.89853359832411 % 	 Average error =  127.40372810315267 	Time per size =  429  nano sec per pixel
+test  93 :
+7.043986465702861 % 	 Average error =  93.04328377069865 	Time per size =  394  nano sec per pixel
+test  94 :
+15.02070723160242 % 	 Average error =  134.13138402330028 	Time per size =  347  nano sec per pixel
+test  95 :
+14.687693259121831 % 	 Average error =  121.01948591131914 	Time per size =  354  nano sec per pixel
+test  96 :
+6.943470332444942 % 	 Average error =  95.15974552398579 	Time per size =  434  nano sec per pixel
+test  97 :
+4.957191780821918 % 	 Average error =  65.5665832018811 	Time per size =  363  nano sec per pixel
+test  98 :
+9.572346554398404 % 	 Average error =  97.46660887164835 	Time per size =  372  nano sec per pixel
+test  99 :
+3.367957192319799 % 	 Average error =  58.9063108034223 	Time per size =  339  nano sec per pixel
+test  100 :
+4.466456551103107 % 	 Average error =  67.80524509183822 	Time per size =  379  nano sec per pixel
+test  101 :
+4.420758343526122 % 	 Average error =  52.00025887168914 	Time per size =  357  nano sec per pixel
+test  102 :
+2.253971528780689 % 	 Average error =  67.44375582417852 	Time per size =  381  nano sec per pixel
+test  103 :
+1.5309699063642281 % 	 Average error =  66.89210050805903 	Time per size =  541  nano sec per pixel
+test  104 :
+3.1181217901687455 % 	 Average error =  63.76102344288545 	Time per size =  311  nano sec per pixel
+test  105 :
+2.2675736961451247 % 	 Average error =  65.00653533935547 	Time per size =  321  nano sec per pixel
+test  106 :
+1.608934317622563 % 	 Average error =  74.13749712775736 	Time per size =  312  nano sec per pixel
+test  107 :
+2.0671834625323 % 	 Average error =  70.62698745727539 	Time per size =  313  nano sec per pixel
+test  108 :
+4.534428064937488 % 	 Average error =  61.08017810774438 	Time per size =  352  nano sec per pixel
+test  109 :
+4.2105263157894735 % 	 Average error =  58.632260936801714 	Time per size =  332  nano sec per pixel
+test  110 :
+4.6248715313463515 % 	 Average error =  61.05512517293294 	Time per size =  329  nano sec per pixel
+test  111 :
+4.160036371902706 % 	 Average error =  54.59691255079593 	Time per size =  319  nano sec per pixel
+test  112 :
+3.1088082901554404 % 	 Average error =  64.0836697533017 	Time per size =  311  nano sec per pixel
+test  113 :
+4.078989964389771 % 	 Average error =  56.06338569600746 	Time per size =  364  nano sec per pixel
+test  114 :
+3.6472232812301435 % 	 Average error =  60.19092711339014 	Time per size =  353  nano sec per pixel
+test  115 :
+7.135470527404343 % 	 Average error =  55.14378052863522 	Time per size =  290  nano sec per pixel
+test  116 :
+1.8820577164366372 % 	 Average error =  65.34164276123047 	Time per size =  316  nano sec per pixel
+test  117 :
+5.94925634295713 % 	 Average error =  45.30881915372961 	Time per size =  331  nano sec per pixel
+test  118 :
+3.9597737272155875 % 	 Average error =  52.254522172231525 	Time per size =  327  nano sec per pixel
+test  119 :
+2.1928009929664873 % 	 Average error =  62.308096068760136 	Time per size =  345  nano sec per pixel
+test  120 :
+1.9941518479480467 % 	 Average error =  58.58163647598826 	Time per size =  519  nano sec per pixel
