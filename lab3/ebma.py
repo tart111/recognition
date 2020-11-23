@@ -125,7 +125,7 @@ def encoder(cap):
         next_frame = frames[ind * 2 + 1]
         res = ebma(frame, next_frame)
         compressed_outputs.append([frame, res])
-        ORB_comparison(frame, next_frame, "result_ebma.txt")
+        # ORB_comparison(frame, next_frame, "result_ebma.txt")
 
     with open('myfile1.pkl', 'wb') as output:
         pickle.dump(compressed_outputs, output)
@@ -133,17 +133,35 @@ def encoder(cap):
     time_res = (datetime.datetime.now() - time_start)
     print(f"EBMA total time: {time_res.seconds} seconds\nEBMA time per frame : {(time_res.microseconds)/len(frames)} microseconds\n")
 
-def decoder(file_name, dir_name, draw_func):
+def decoder(file_name, dir_name, draw_func, cap):
     time_start = datetime.datetime.now()
+
+    frames = []
+    ind = 0
+    while cap.isOpened():
+        print(f'Reading frame {ind}')
+        ind += 1
+        frame = cap.read()[1]
+        if frame is None:
+            break
+        frames.append(frame)
+
+    print(f'length of frames {len(frames)}')
+
     video_frames = []
     changes = []
     with open(file_name, 'rb') as file:
         total = pickle.load(file)
 
     os.makedirs(dir_name, exist_ok=True)
+
     for ind, frame_pair in enumerate(tqdm.tqdm(total, desc='Processing source frames')):
         video_frames.append(frame_pair[0])
         changes.append(frame_pair[1])
+        if ind * 2 + 1 < len(frames):
+            err = compare(draw_func(video_frames[-1], changes[-1]), frames[ind * 2 + 1])
+            with open('result_ebma.txt', 'a') as file:
+                file.write(f"frames difference: {err}\n")
         cv.imwrite(f'{dir_name}/img{ind * 2:03}.png', video_frames[-1])
         cv.imwrite(f'{dir_name}/img{ind * 2 + 1:03}.png', draw_func(video_frames[-1], changes[-1]))
 
@@ -170,5 +188,5 @@ if __name__ == '__main__':
     cap = cv.VideoCapture("VID.mp4")
     encoder(cap)
     cap.release()
-
-    decoder("myfile1.pkl", "images1", draw_result)
+    cap = cv.VideoCapture("VID.mp4")
+    decoder("myfile1.pkl", "images1", draw_result, cap)
