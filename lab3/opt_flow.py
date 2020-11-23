@@ -115,7 +115,8 @@ def encoder(cap):
         next_frame = frames[ind * 2 + 1]
         res = optical_flow(frame, next_frame)
         compressed_outputs.append([frame, res])
-        ORB_comparison(frame, next_frame, "result_ebma.txt")
+        # ORB_comparison(frame, next_frame, "result_ebma.txt")
+
 
     with open('myfile1.pkl', 'wb') as output:
         pickle.dump(compressed_outputs, output)
@@ -135,5 +136,5 @@ def encoder(cap):
 cap = cv2.VideoCapture("VID.mp4")
 encoder(cap)
 cap.release()
-
-decoder("myfile1.pkl", "images2", draw_result)
+cap = cv2.VideoCapture("VID.mp4")
+decoder("myfile1.pkl", "images2", draw_result, cap)
